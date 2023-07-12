@@ -1,0 +1,1 @@
+# Một đường dẫn jenkins đơn giản để xác minh xem cấu hình docker có hoạt động như mong đợi hay không.
